@@ -3098,32 +3098,6 @@ SWITCH_TUYA_CN_TS0004:
   neutral: required
   device_type: router
   stock_model_name: TS0004
-  stock_manufacturer_name: _TZ3000_gbdxbmwz
-  stock_converter_manufacturer: Tuya
-  stock_converter_model: TS0004
-  override_z2m_device: null
-  tuya_module: null
-  mcu_family: Telink
-  mcu: TLSR8258
-  config_str: gbdxbmwz;TS0004-CUS;LB1;SC3u;RD2;SD7u;RB5;SC2u;RB4;SB7u;RC0;M;
-  alt_config_str: null
-  old_manufacturer_names: null
-  old_zb_models: null
-  stock_manufacturer_id: 4417
-  stock_image_type: 54179
-  firmware_image_type: 45567
-  build: yes
-  status: mostly_supported
-  info: Needs netled on A0
-  threads: https://github.com/romasku/tuya-zigbee-switch/issues/181
-  store: null
-SWITCH_TUYA_CN_TS0004:
-  human_name: Tuya 4-gang switch
-  category: switch
-  power: mains
-  neutral: required
-  device_type: router
-  stock_model_name: TS0004
   stock_manufacturer_name: _TZ3000_1nenkvye
   stock_converter_manufacturer: Tuya
   stock_converter_model: TS0004

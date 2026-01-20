@@ -2539,6 +2539,20 @@
     ]
   },
   {
+    "fileName": "tlc_switch-1.1.2-f31d5fe0.zigbee",
+    "fileVersion": 285356032,
+    "fileSize": 174946,
+    "url": "https://github.com/romasku/tuya-zigbee-switch/raw/1c82b23065346fb8b7ec48ebdc329f9158151147/bin/router/SWITCH_TUYA_CN_TS0004/tlc_switch-1.1.2-f31d5fe0.zigbee",
+    "imageType": 45567,
+    "manufacturerCode": 4417,
+    "sha512": "22d5b40abdd1877a2c0ada737e511811df6325b2c36d2dffc6d386701766f9cf105b0964e2b9da4537605f1cd616380bb3f55a71cf1943fe084c7fd006d8713f",
+    "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "_TZ3000_1nenkvye",
+      "gbdxbmwz"
+    ]
+  },
+  {
     "fileName": "tlc_switch-1.1.2-f31d5fe0-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 174946,

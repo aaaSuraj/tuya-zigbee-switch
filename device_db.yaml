@@ -1,4 +1,3 @@
-
 SWITCH_TUYA_CN_TS0004:
   human_name: Tuya 4-gang switch
   category: switch
@@ -19,7 +18,7 @@ SWITCH_TUYA_CN_TS0004:
   old_zb_models: null
   stock_manufacturer_id: 4417
   stock_image_type: 54179
-  firmware_image_type: 45567
+  firmware_image_type: 65535
   build: yes
   status: mostly_supported
   info: Needs netled on A0
